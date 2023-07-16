@@ -3,7 +3,7 @@
 ## challenges
 
 ### In progress
-https://leetcode.com/problems/sum-of-two-integers
+
 
 ### Waiting
 https://leetcode.com/problems/reverse-linked-list
@@ -57,3 +57,4 @@ https://leetcode.com/problems/fizz-buzz/ => https://github.com/wutchara/challeng
 https://leetcode.com/problems/single-number => https://github.com/wutchara/challenge-single-number
 https://leetcode.com/problems/maximum-depth-of-binary-tree => https://github.com/wutchara/challenge-maximum-depth-of-binary-tree
 https://leetcode.com/problems/move-zeroes
+https://leetcode.com/problems/sum-of-two-integers
