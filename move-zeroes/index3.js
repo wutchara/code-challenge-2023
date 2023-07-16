@@ -19,11 +19,10 @@ var moveZeroes = function (nums) {
                 console.log('2222', nums);
                 i++;
             }
-            j++;
         } else {
             i++;
-            j++;
         }
+        j++;
     }
 };
 
