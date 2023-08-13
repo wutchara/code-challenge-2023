@@ -3,11 +3,9 @@
 ## challenges
 
 ### In progress
-
+- https://leetcode.com/problems/excel-sheet-column-number
 
 ### Waiting
-- https://leetcode.com/problems/reverse-linked-list
-- https://leetcode.com/problems/excel-sheet-column-number
 - https://leetcode.com/problems/majority-element
 - https://leetcode.com/problems/roman-to-integer
 - https://leetcode.com/problems/delete-node-in-a-linked-list
@@ -58,3 +56,4 @@
 - https://leetcode.com/problems/maximum-depth-of-binary-tree => `https://github.com/wutchara/challenge-maximum-depth-of-binary-tree`
 - https://leetcode.com/problems/move-zeroes
 - https://leetcode.com/problems/sum-of-two-integers
+- https://leetcode.com/problems/reverse-linked-list
