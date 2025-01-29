@@ -3,7 +3,7 @@
 ## challenges
 
 ### In progress
-- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+
 
 ### Waiting
 - https://leetcode.com/problems/valid-anagram
@@ -57,3 +57,4 @@
 - https://leetcode.com/problems/majority-element
 - https://leetcode.com/problems/roman-to-integer
 - https://leetcode.com/problems/delete-node-in-a-linked-list
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
