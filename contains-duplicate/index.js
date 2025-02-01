@@ -1,3 +1,5 @@
+// Time Limit Exceeded -> too basic
+
 /**
  * @param {number[]} nums
  * @return {boolean}
@@ -17,7 +19,6 @@ var containsDuplicate = function (nums) {
 };
 
 
-// Time Limit Exceeded
 const arr1 = [1, 2, 3, 1];
 console.log("arr1", containsDuplicate(arr1));
 
