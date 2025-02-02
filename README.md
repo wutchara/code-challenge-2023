@@ -3,11 +3,10 @@
 ## challenges
 
 ### In progress
-
+- https://leetcode.com/problems/first-unique-character-in-a-string
 
 ### Waiting
 - https://leetcode.com/problems/valid-anagram
-- https://leetcode.com/problems/first-unique-character-in-a-string
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
 - https://leetcode.com/problems/missing-number
 - https://leetcode.com/problems/intersection-of-two-arrays-ii
