@@ -3,12 +3,11 @@
 ## challenges
 
 ### In progress
-- https://leetcode.com/problems/first-unique-character-in-a-string
+- https://leetcode.com/problems/missing-number
 
 ### Waiting
 - https://leetcode.com/problems/valid-anagram
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
-- https://leetcode.com/problems/missing-number
 - https://leetcode.com/problems/intersection-of-two-arrays-ii
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - https://leetcode.com/problems/merge-two-sorted-lists
@@ -57,3 +56,4 @@
 - https://leetcode.com/problems/delete-node-in-a-linked-list
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
 - https://leetcode.com/problems/contains-duplicate
+- https://leetcode.com/problems/first-unique-character-in-a-string
