@@ -2,7 +2,22 @@
  * @param {number[]} nums
  * @return {number}
  */
-var missingNumber = function (nums) {};
+var missingNumber = function (nums) {
+  const min = 0;
+  const max = Math.max(...nums);
+
+  let missingNumber = max + 1;
+  for (let i = min; i < max; i++) {
+    if (nums.includes(i)) {
+      continue;
+    } else {
+      missingNumber = i;
+      break;
+    }
+  }
+
+  return missingNumber;
+};
 
 const input1 = [3, 0, 1];
 console.log("input1", missingNumber(input1));
