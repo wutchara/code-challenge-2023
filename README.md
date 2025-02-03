@@ -3,7 +3,7 @@
 ## challenges
 
 ### In progress
-- https://leetcode.com/problems/missing-number
+- https://leetcode.com/problems/happy-number
 
 ### Waiting
 - https://leetcode.com/problems/valid-anagram
@@ -11,7 +11,6 @@
 - https://leetcode.com/problems/intersection-of-two-arrays-ii
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - https://leetcode.com/problems/merge-two-sorted-lists
-- https://leetcode.com/problems/happy-number
 - https://leetcode.com/problems/pascals-triangle
 - https://leetcode.com/problems/climbing-stairs
 - https://leetcode.com/problems/symmetric-tree
@@ -57,3 +56,4 @@
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
 - https://leetcode.com/problems/contains-duplicate
 - https://leetcode.com/problems/first-unique-character-in-a-string
+- https://leetcode.com/problems/missing-number
